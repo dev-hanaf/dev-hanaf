@@ -25,15 +25,7 @@
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-hanaf&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hanaf&layout=compact&count_private=true&theme=gruvbox" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-hanaf&show_icons=true&count_private=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hanaf&layout=compact&count_private=true&theme=dracula" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev-hanaf&theme=gruvbox" />  
-<a href="https://github.com/dev-hanaf/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hanaf&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/dev-hanaf/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hanaf&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/dev-hanaf/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
-## 𝗦𝘁𝗮𝘁𝘀
-
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=dev-hanaf&show_icons=true&theme=dracula)
